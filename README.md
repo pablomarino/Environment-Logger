@@ -3,4 +3,4 @@ A personal device to measure Air, Noise and Light pollution, focused on urban en
 
 The project repository is now hosted on https://gitlab.com/environment-logger
 
-![Client default view](img/DefaultView.png)
+![Client default view](https://gitlab.com/environment-logger/client-application/-/raw/main/img/DefaultView.png)
